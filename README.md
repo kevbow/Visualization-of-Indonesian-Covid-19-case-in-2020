@@ -5,5 +5,5 @@ The purpose of this project is to show Indonesian Covid-19 case development from
 - Source: https://www.kaggle.com/hendratno/covid19-indonesia
 
 Note to self:
-Jan - R
-Apr - O
+- Jan - R
+- Apr - O
